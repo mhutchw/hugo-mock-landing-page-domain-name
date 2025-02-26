@@ -1,7 +1,7 @@
-baseURL = 'https://mhutchw.github.io/hugo-bootstrap-theme/'
-title = "Hugo Bootstrap Theme"
 author = "Malcolm Wengel"
+baseURL = 'https://mhutchw.github.io/hugo-mock-landing-page/'
 copyright = "Malcolm Wengel"
+title = "UCAPITAL"
 
 timeZone = 'Europe/London'
 
